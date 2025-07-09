@@ -1,4 +1,4 @@
-
+// https://github.com/petersf01/cs81-module5b-weektracker
 
 // weekly activity array of objects
 const myWeek = [
